@@ -6,7 +6,7 @@
 <!--   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=M44rk0&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=gray&text_color=FFF&border_radius=3&border_color=whitec&icon_color=gray&theme=dracula" alt="GitHub stats"> -->
 
   <img src="https://github-readme-stats.vercel.app/api?username=M44rk0&hide_title=true&show_icons=true&theme=gotham&include_all_commits=false&count_private=true&hide=issues&line_height=20"/>
-  <img layout=compact src="https://github-readme-stats.vercel.app/api/top-langs/?username=M44rk0&layout=compact&langs_count=16&line_height=20&&card_width=100&lang_count=4&include_all_commits=false&theme=gotham"/>
+  <img layout=compact src="https://github-readme-stats.vercel.app/api/top-langs/?username=M44rk0&layout=compact&langs_count=4&line_height=20&card_width=100&include_all_commits=true&theme=gotham"/>
   
 </div>
 
